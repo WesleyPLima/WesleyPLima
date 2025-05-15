@@ -83,8 +83,8 @@ Minha abordagem é baseada na proatividade, colaboração em equipe e comunicaç
 ### 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleyplima&show_icons=true&theme=radical" alt="Wesley GitHub Stats" />
-  <br/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=wesleyplima&show_icons=true&theme=radical" alt="Wesley GitHub Stats" />
+  <br/>-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyplima&theme=radical" alt="GitHub Streak" />
 </p>
 
