@@ -75,17 +75,17 @@ Minha abordagem é baseada na proatividade, colaboração em equipe e comunicaç
 ### 📫 Contato
 
 - ✉️ **Email:** wesleypereiralima1@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione aqui seu link real)*  
-- 🌐 [Portfólio (opcional)](https://seusite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wesleyplima23) 
+<!--- 🌐 [Portfólio (opcional)](https://seusite.com)-->
 
 ---
 
 ### 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleypereiralima&show_icons=true&theme=radical" alt="Wesley GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleyplima&show_icons=true&theme=radical" alt="Wesley GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleypereiralima&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyplima&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
