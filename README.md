@@ -35,7 +35,7 @@ Minha abordagem é baseada na proatividade, colaboração em equipe e comunicaç
   Grupo de Tecnologia da Informação - Prefeitura de Arapiraca  
   *(04/2024 - 12/2024)*
 
-- 🚀 **Desenvolvedor de Software Júnior**  
+- 🚀 **Desenvolvedor de Software Pleno**  
   Secretaria Municipal de Saúde - Prefeitura de Arapiraca  
   *(01/2025 - Atualmente)*
 
